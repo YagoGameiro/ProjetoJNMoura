@@ -1,0 +1,15 @@
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.vbproj.AssemblyReference.cache
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.FrmListaUsuarios.resources
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.Resources.resources
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.cache
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.xml
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.xml
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.frmTarefas.resources
+C:\Users\yago-\OneDrive\Área de Trabalho\projetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.frmFiltro.resources
